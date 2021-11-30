@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['animatevertexcolors_0',['AnimateVertexColors',['../d9/d30/class_t_m_pro_1_1_examples_1_1_vertex_color_cycler.html#a22a41f2f64cdf007330973d283d61d8e',1,'TMPro.Examples.VertexColorCycler.AnimateVertexColors()'],['../de/d7a/class_t_m_pro_1_1_examples_1_1_vertex_jitter.html#a65fcba6ff345a1a527b236c6166de696',1,'TMPro.Examples.VertexJitter.AnimateVertexColors()'],['../dd/d7f/class_t_m_pro_1_1_examples_1_1_vertex_shake_a.html#a41614ab9364a34655672675eca5d16d0',1,'TMPro.Examples.VertexShakeA.AnimateVertexColors()'],['../d9/db5/class_t_m_pro_1_1_examples_1_1_vertex_shake_b.html#a550c38b1fda64b77f736a48470dfb649',1,'TMPro.Examples.VertexShakeB.AnimateVertexColors()'],['../de/dc3/class_t_m_pro_1_1_examples_1_1_vertex_zoom.html#a0fc98ad8ed9f103145f1dfe96540e88a',1,'TMPro.Examples.VertexZoom.AnimateVertexColors()']]],
+  ['awake_1',['Awake',['../d4/d04/class_main_menu.html#a9a2b50b76ed50c4fc1eb08eba7dc23b2',1,'MainMenu.Awake()'],['../d6/d20/class_object_clicker.html#a48be6a9f66b56e19b369fa2309f63139',1,'ObjectClicker.Awake()']]]
+];
